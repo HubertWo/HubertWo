@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Java: 
+1. [Stream Katas](https://github.com/HubertWo/java-stream-kata)
+
+#### Maven: 
+1. [Code Coverage - Jacoco](https://github.com/HubertWo/hubert-codes-maven-jacoco)
+2. [Unit and Integration tests](https://github.com/HubertWo/hubert-codes-maven-test)
+3. [Executable JAR](https://github.com/HubertWo/hubert-codes-maven-executable-jar)
+
+
 <!--
 **HubertWo/HubertWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
