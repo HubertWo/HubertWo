@@ -1,26 +1,8 @@
 ### Hi there 👋
+I am a Java Software Engineer and Tech Lead. Here you can find materials from my trainings and code source related to blog posts I write from time to time.
 
-#### Java: 
-1. [Stream Katas](https://github.com/HubertWo/java-stream-kata)
-
-#### Maven: 
-1. [Unit and Integration tests](https://github.com/HubertWo/hubert-codes-maven-test)
-2. [Code Coverage - Jacoco](https://github.com/HubertWo/hubert-codes-maven-jacoco)
-3. [Executable JAR](https://github.com/HubertWo/hubert-codes-maven-executable-jar)
-4. [Preparing release](https://github.com/HubertWo/hubert-codes-maven-release)
-
-
-<!--
-**HubertWo/HubertWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Recent Blog Posts from [hubert.codes](https://hubert.codes)
+ - [Maven - run unit and integration tests with Junit5 ](https://github.com/HubertWo/hubert-codes-maven-test)
+ - [Maven - genreate code coverage with Jacoco](https://github.com/HubertWo/hubert-codes-maven-jacoco)
+ - [Maven - create executable JAR](https://github.com/HubertWo/hubert-codes-maven-executable-jar)
+ - [Maven - prepare release](https://github.com/HubertWo/hubert-codes-maven-release)
