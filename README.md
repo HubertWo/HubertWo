@@ -4,9 +4,10 @@
 1. [Stream Katas](https://github.com/HubertWo/java-stream-kata)
 
 #### Maven: 
-1. [Code Coverage - Jacoco](https://github.com/HubertWo/hubert-codes-maven-jacoco)
-2. [Unit and Integration tests](https://github.com/HubertWo/hubert-codes-maven-test)
+1. [Unit and Integration tests](https://github.com/HubertWo/hubert-codes-maven-test)
+2. [Code Coverage - Jacoco](https://github.com/HubertWo/hubert-codes-maven-jacoco)
 3. [Executable JAR](https://github.com/HubertWo/hubert-codes-maven-executable-jar)
+4. [Preparing release](https://github.com/HubertWo/hubert-codes-maven-release)
 
 
 <!--
