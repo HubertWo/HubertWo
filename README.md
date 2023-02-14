@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Java Software Engineer and Tech Lead. Here you can find materials from my trainings and code source related to blog posts I write from time to time.
 
-#### Recent Blog Posts from [hubert.codes](https://hubert.codes)
+#### Recent Blog Posts from [hubertwo.dev](https://hubertwo.dev)
  - [Maven - fixing code style errors with Spotless and Maven](https://github.com/HubertWo/hubert-codes-maven-spotless)
  - [Maven - checking code style with Maven and Checkstyle](https://github.com/HubertWo/hubert-codes-maven-checkstyle)
  - [Maven - finding duplicated code with PMD and CPD](https://github.com/HubertWo/hubert-codes-maven-pmd)
